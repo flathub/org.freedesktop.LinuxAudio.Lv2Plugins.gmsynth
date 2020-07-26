@@ -1,3 +1,5 @@
 {
+    "end-of-life": "The plugin has been renamed to org.freedesktop.LinuxAudio.Plugins.gmsynth",
+    "end-of-life-rebase": "org.freedesktop.LinuxAudio.Plugins.gmsynth",
     "skip-icons-check": true
 }
